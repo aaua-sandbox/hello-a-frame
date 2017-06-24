@@ -1,0 +1,23 @@
+{
+  "name": "hello-a-frame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaua-sandbox/hello-a-frame.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaua-sandbox/hello-a-frame/issues"
+  },
+  "homepage": "https://github.com/aaua-sandbox/hello-a-frame#readme"
+}
